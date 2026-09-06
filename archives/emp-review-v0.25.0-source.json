@@ -1,0 +1,9 @@
+{
+  "blobSha": "11d392f0d10e7f4a47bbd1c8fa38bd20aa596740",
+  "bytes": 1169889,
+  "file": "emp-review-v0.25.0-source.zip",
+  "sha256": "1b25836e8557f808d9e9dd9fb119f2f0bb3aa36a2fdaba65a594234414bde9ef",
+  "sourceCommit": "286761ca039b710820aa824f9e6890f7c3284cc6",
+  "sourcePolicy": "Private pilot document bundle replaced with an empty array; see PUBLIC_SOURCE_NOTES.md.",
+  "version": "0.25.0"
+}
